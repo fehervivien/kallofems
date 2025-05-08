@@ -1,0 +1,6 @@
+scrapy crawl kallofems
+scrapy crawl kallofems -o products.json
+.venv\Scripts\activate -belépés a vk-be
+deactivate -kilépés a virtuális környezetből
+
+tree kallofems /F - mappa stuktúra
